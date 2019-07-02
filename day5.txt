@@ -1,0 +1,39 @@
+<ol>
+  <li>How do you declare a variable. 
+    <p>Answer: var is used to declare a variable.</p>
+    <li>What does the equals sign really mean in JavaScript? 
+      <p>Answer: = sign is the assignment operator</p>
+      </li>
+  <li>What is it called in JavaScript?
+    <p>Answer: </p>
+    </li>
+    
+<li>There are three big data types in JavaScript: numbers, strings, and booleans. Describe what each of them are.
+  <p>Answer: Numbers are numeric data type. Strings are consists of letters and other charatcers. Booleans are true false statments.</p>
+  </li>
+<li>What are the six rules for naming variables? 
+  <p>Answer:
+  1. must begin with a letter, dollar sign or undersscore. it must NOT start with a number.
+  2. the name can contain letters, number or dollar sign or an uderscore no dash or period
+  3. cannot use keywords or reserved words like var.
+  4. variables are case sensitive
+  5. use a name that describes the variable.
+  6. if the variable is more than one word then use camel case.</p>
+  </li>
+  <li>What are a few JavaScript reserved words that you should avoid using for variable names?
+    <p>Answer: break , case , catch , continue , debugger , default , delete , do , else , finally , for , function , if , in , instanceof , new , return , switch , this , throw , try , typeof , var , void , while</p>
+    
+  </li>
+<li>How can an array be useful when dealing with multiple related values? 
+  <p>Answer: array's are useful when you do not know how many related items will be variables.</p> 
+  </li>
+  <li>How do you access/change a value in an array?
+    <p>Answer: by using the index. [0] values start at zero.</p>
+  </li>
+<li>What is the difference between an expression and a statement?
+  <p>Answer: expressions evaluate into a single value. Statements are an indvidual instruction or step. Statments should end with semicolon.</p>
+  </li>
+<li>What are three types of operators and how are they used?
+  <p>Answer: Assigment, Arithemtic, string, comparison and logical</p>
+  </li>
+</ol>
