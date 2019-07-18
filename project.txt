@@ -1,0 +1,23 @@
+project
+
+Make A New Webpage Using Sublime Text! 
+
+Instead of using CodePen to create this webpage, let's use Sublime Text - our text editor. Create a folder (also known as a directory) on your computer to hold your site's files. 
+
+Within your folder, create two files:
+index.html to hold your HTML code
+style.css to hold your CSS code
+Your site should contain (but is not limited to):
+Content about a subject you are passionate about! (something not about coding)
+
+
+Headings
+Text in paragraphs (include two different fonts)
+Links ** included
+Images
+A list (ordered or unordered)
+A form ** did examples page 6 times
+Usage of color
+
+
+To see the HTML code that you've written in the browser, find the index.html file in Finder, and open it using Chrome. Don't forget to link your stylesheet in your index.html file! If you're having trouble using Sublime Text to create a webpage, then go ahead and use CodePen to get something built for your new site, but we would prefer that you use Sublime Text. 

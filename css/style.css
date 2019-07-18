@@ -1,0 +1,68 @@
+/*font from google font-family: 'Roboto', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+#container {
+	background-color: lightgray;
+	
+	overflow: hidden;
+
+}
+#secondary1, #secondary2 {
+	background-color: silver;
+}
+#secondary1 p, #secondary2 p, #mainContent p {
+	padding: 2em;
+}
+#mainContent {
+	background-color: lightsteelblue;
+	
+
+}
+figure figcaption {
+	padding: 8px;
+}
+#header, #footer {
+	background-color: steelblue;
+}
+#header h1 {
+	color: ghostwhite;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+#footer p {
+	color: ghostwhite;
+	padding-right: 10px;
+	padding-top: 2px;
+	text-align: right;
+}
+#col1, #col2 {
+	background-color: silver;
+}
+form {
+	padding-left: 10px
+}
+a {
+	color: darkslategray;
+}
+a:hover {
+	color: steelblue;
+}
+/*
+colors:
+
+#72a534 green 
+#99bf71 lt-green
+#fdffcf lt-yellow
+#f4ec96 med-yellow
+#f4c430 more-yellow
+*/
+
+
+
+
+
+
+
+
+

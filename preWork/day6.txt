@@ -1,0 +1,26 @@
+If we have a function defined as function sayHello(){console.log("Hello!")},
+what is the difference between entering sayHello and sayHello() in the console?
+
+    Answer: function sayHello() {console.log("Hello!")};
+undefined
+sayHello
+ƒ sayHello() {console.log("Hello!")}
+sayHello();
+undefined.
+    sayHello() brings up the whole function
+    sayHello says undefined
+    
+
+What is the difference between function parameters and arguments?
+  Answer: Functions let you group a seriew of statment together to preform a specific task. Parameters are the information need to complete the function. Width or lenght or Area.
+  
+What is the keyword return used for?
+  Answer: When you write a function and you expect it to provide you with an answer, the response is know as an return value.
+  
+How are local variables better than global variables? 
+  Answer: local variables because it is used within the function and can be run again to get diffrent results. Also two different functions can use the same variable without any namig conflit. 
+  
+  Are there instances you can think of where you might want to use a variable that is globally scoped over local?
+    Answer: If you want the variable to be usable anyware within the script.
+
+  

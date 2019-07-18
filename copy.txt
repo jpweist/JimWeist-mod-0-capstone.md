@@ -1,0 +1,9 @@
+copy.txt
+
+	<p>
+Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India. Yoga is one of the six orthodox schools of Hindu philosophical traditions.[2] There is a broad variety of yoga schools, practices, and goals[3] in Hinduism, Buddhism, and Jainism.[4][5][6] The term "yoga" in the Western world often denotes a modern form of Hatha yoga, consisting largely of the postures called asanas.
+
+The origins of yoga have been speculated to date back to pre-Vedic Indian traditions; it is mentioned in the Rigveda,[note 1] but most likely developed around the sixth and fifth centuries BCE, in ancient India's ascetic and śramaṇa movements.[8][note 2] The chronology of earliest texts describing yoga-practices is unclear, varyingly credited to Upanishads.[9] The Yoga Sutras of Patanjali date from the first half of the 1st millennium CE,[10][11] but only gained prominence in the West in the 20th century.[12] Hatha yoga texts emerged sometimes between the 9th and 11th century with origins in tantra.[13][14]
+
+<a href="https://en.wikipedia.org/wiki/Yoga">continue reading...</a>
+			</p>
